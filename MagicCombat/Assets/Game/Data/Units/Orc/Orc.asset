@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d53ce6f98433c489c82a24fce39c831f, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  _id: 2519280545
+  UnitCategory: 2
+  Stats:
+    Stats:
+    - Stat: 1
+      Value: 500
+    - Stat: 2
+      Value: 6
+    - Stat: 3
+      Value: 100
+    - Stat: 4
+      Value: 0.25

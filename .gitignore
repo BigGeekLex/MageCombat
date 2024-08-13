@@ -1,0 +1,11 @@
+MagicCombat/Temp
+MagicCombat/UserSettings
+*.csproj
+*.sln
+MagicCombat/mono_crash.143e122e3a.0.json
+MagicCombat/Logs
+MagicCombat/Library
+MagicCombat/obj
+MagicCombat/.DS_Store
+.DS_Store
+MagicCombat/.idea
